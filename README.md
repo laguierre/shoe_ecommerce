@@ -2,7 +2,7 @@
 
 Shoes Shopping App UI Tutorial App made with Flutter, with 360 Rotation Image.
 Tutorial from @gilang.arinata "Nice Shoes Shopping App UI with 360 Rotation Image - Flutter E Commerce App Speed Code" [link](https://www.youtube.com/watch?v=BOUVUfo01CA&list=PL29yTdfAdnEfOHIWxgdb4j2ZmdLJJzE47&index=11).
-The full video in my Youtube channel [link](https://youtube.com/shorts/ODXSrANTDBw?feature=share) and my Flutter Demos App video list [link](https://www.youtube.com/playlist?list=PL29yTdfAdnEfQ1U0hRkFxqD-ei2ux8-Hk)
+The full video in my Youtube channel [link](https://youtube.com/shorts/qgezVTelpQA) and my Flutter Demos App video list [link](https://www.youtube.com/playlist?list=PL29yTdfAdnEfQ1U0hRkFxqD-ei2ux8-Hk)
 - ListView.
 - AnimationController.
 - Tween Animation.
